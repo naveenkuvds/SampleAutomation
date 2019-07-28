@@ -1,0 +1,15 @@
+﻿he Selenium WebDriver scripts are very slow because they run through the browser.
+There are multiple things that can improve the Selenium WebDriver scripts’ speed:
+use fast selectors
+use fewer locators
+create atomic tests
+dont test the same functionality twice
+write good tests
+use only explicit waits
+use the chrome driver
+use drivers for headless browsers
+re-use the browser instance
+run scripts in parallel
+use HTTP parse libraries
+pre-populate cookies
+do not load images in the web page

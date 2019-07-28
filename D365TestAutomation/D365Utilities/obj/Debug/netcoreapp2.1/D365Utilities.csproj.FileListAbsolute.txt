@@ -1,0 +1,11 @@
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\D365Utilities\bin\Debug\netcoreapp2.1\D365Utilities.deps.json
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\D365Utilities\bin\Debug\netcoreapp2.1\D365Utilities.runtimeconfig.json
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\D365Utilities\bin\Debug\netcoreapp2.1\D365Utilities.runtimeconfig.dev.json
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\D365Utilities\bin\Debug\netcoreapp2.1\D365Utilities.dll
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\D365Utilities\bin\Debug\netcoreapp2.1\D365Utilities.pdb
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\D365Utilities\obj\Debug\netcoreapp2.1\D365Utilities.csprojAssemblyReference.cache
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\D365Utilities\obj\Debug\netcoreapp2.1\D365Utilities.csproj.CoreCompileInputs.cache
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\D365Utilities\obj\Debug\netcoreapp2.1\D365Utilities.AssemblyInfoInputs.cache
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\D365Utilities\obj\Debug\netcoreapp2.1\D365Utilities.AssemblyInfo.cs
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\D365Utilities\obj\Debug\netcoreapp2.1\D365Utilities.dll
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\D365Utilities\obj\Debug\netcoreapp2.1\D365Utilities.pdb

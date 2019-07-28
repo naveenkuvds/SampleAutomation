@@ -1,0 +1,14 @@
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\bin\Debug\netcoreapp2.1\ProCSharp7Practice.deps.json
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\bin\Debug\netcoreapp2.1\ProCSharp7Practice.runtimeconfig.json
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\bin\Debug\netcoreapp2.1\ProCSharp7Practice.runtimeconfig.dev.json
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\bin\Debug\netcoreapp2.1\ProCSharp7Practice.dll
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\bin\Debug\netcoreapp2.1\ProCSharp7Practice.pdb
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\obj\Debug\netcoreapp2.1\ProCSharp7Practice.csprojAssemblyReference.cache
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\obj\Debug\netcoreapp2.1\ProCSharp7Practice.csproj.CoreCompileInputs.cache
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\obj\Debug\netcoreapp2.1\ProCSharp7Practice.AssemblyInfoInputs.cache
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\obj\Debug\netcoreapp2.1\ProCSharp7Practice.AssemblyInfo.cs
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\obj\Debug\netcoreapp2.1\ProCSharp7Practice.dll
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\obj\Debug\netcoreapp2.1\ProCSharp7Practice.pdb
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\bin\Debug\netcoreapp2.1\D365Utilities.dll
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\bin\Debug\netcoreapp2.1\D365Utilities.pdb
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\ProCSharp7Practice\obj\Debug\netcoreapp2.1\ProCSharp7Practice.csproj.CopyComplete
