@@ -38,6 +38,8 @@ namespace NUnitSelenium
             Thread.Sleep(3000);
             SwitchTabsFramesWindow.SwithcToNewWindow(driver);
             ComponentActions.ClickButton(driver, "$('#template_blank')");
+            Thread.Sleep(3000);
+            PageWaitTimings.WaitForPageLoad(driver);
             SwitchTabsFramesWindow.SwitchToFrame(driver, "sdx_ow_iframe");
             ComponentActions.ClickButton(driver, "$('#id__11')");
             //driver.FindElement(By.XPath("//*[@id='id__11']")).Click();
