@@ -1,0 +1,9 @@
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\SpecFlowDemo\bin\Debug\netcoreapp2.1\SpecFlowDemo.deps.json
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\SpecFlowDemo\bin\Debug\netcoreapp2.1\SpecFlowDemo.dll
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\SpecFlowDemo\obj\Debug\netcoreapp2.1\SpecFlowDemo.csproj.CoreCompileInputs.cache
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\SpecFlowDemo\obj\Debug\netcoreapp2.1\SpecFlowDemo.AssemblyInfoInputs.cache
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\SpecFlowDemo\obj\Debug\netcoreapp2.1\SpecFlowDemo.AssemblyInfo.cs
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\SpecFlowDemo\bin\Debug\netcoreapp2.1\SpecFlowDemo.pdb
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\SpecFlowDemo\obj\Debug\netcoreapp2.1\SpecFlowDemo.csprojAssemblyReference.cache
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\SpecFlowDemo\obj\Debug\netcoreapp2.1\SpecFlowDemo.dll
+C:\Users\ngoud\Desktop\D365TestAutomation\D365TestAutomation\SpecFlowDemo\obj\Debug\netcoreapp2.1\SpecFlowDemo.pdb

@@ -28,7 +28,7 @@ namespace NUnitSelenium
             passwordTextBox.SendKeys("Mlalg786*");
             
             IWebElement submitButton = driver.FindElement(By.Id("idSIButton9"));
-            Thread.Sleep(1000);
+            Thread.Sleep(1000);            
             //PageWaitTimings.WaitForPageLoad(driver);
             IJavaScriptExecutor executor = (IJavaScriptExecutor)driver;
             executor.ExecuteScript("document.getElementById('idSIButton9').click()");
